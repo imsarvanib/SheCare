@@ -62,7 +62,7 @@ export const MentalHealthPage = () => {
   const [favorites, setFavorites] = useState<string[]>([])
   const [savedQuotes, setSavedQuotes] = useState<SavedQuote[]>([])
   const [refreshKey, setRefreshKey] = useState(0)
-
+const storedUserId = localStorage.getItem('userId') || 'guest-user'
   const autoSetLevels = (text: string, selectedMood: MoodTag) => {
     const msg = text.toLowerCase()
     let newStress = 3

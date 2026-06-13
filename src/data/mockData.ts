@@ -86,6 +86,7 @@ export const schemes: Scheme[] = [
     ageRange: '18-45',
     eligibility: 'Pregnant women below poverty line',
     summary: 'Cash assistance for safe institutional delivery support.',
+    description: "Provides healthcare support and benefits for eligible women."
   },
   {
     id: 'scheme-2',
@@ -93,6 +94,7 @@ export const schemes: Scheme[] = [
     ageRange: '19-40',
     eligibility: 'First-time mothers',
     summary: 'Maternity benefit for wage compensation during pregnancy.',
+    description: "Provides healthcare support and benefits for eligible women."
   },
   {
     id: 'scheme-3',
@@ -100,6 +102,7 @@ export const schemes: Scheme[] = [
     ageRange: '10-19',
     eligibility: 'Adolescent girls and boys',
     summary: 'Counseling and preventive care for adolescent health.',
+    description: "Provides healthcare support and benefits for eligible women."
   },
   {
     id: 'scheme-4',
@@ -107,6 +110,7 @@ export const schemes: Scheme[] = [
     ageRange: 'All ages',
     eligibility: 'Low-income eligible households',
     summary: 'Hospitalization coverage for secondary and tertiary care.',
+    description: "Provides healthcare support and benefits for eligible women."
   },
 ]
 

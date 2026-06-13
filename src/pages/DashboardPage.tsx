@@ -60,8 +60,6 @@ export const DashboardPage = () => {
   const [periodLogs, setPeriodLogs] = useState<PeriodLog[]>([])
   const [reminders, setReminders] = useState<Reminder[]>([])
   const [journals, setJournals] = useState<Journal[]>([])
-const [nextCycle, setNextCycle] = useState<string | null>(null)
-const [currentCycle, setCurrentCycle] = useState(false)
   const getNewQuote = () => {
     setQuote(pickRandomQuote())
   }

@@ -1,4 +1,3 @@
-import { useSettings } from '../context/SettingsContext'
 import { useEffect, useMemo, useState } from 'react'
 import { PageTransition } from '../components/common/PageTransition'
 import { SectionHeader } from '../components/common/SectionHeader'
