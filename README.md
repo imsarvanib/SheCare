@@ -7,7 +7,7 @@
 The application addresses the challenge of fragmented healthcare management, where users often rely on multiple applications for menstrual tracking, pregnancy care, medication reminders, mental wellness, and health awareness. SheCare brings these services together through an intuitive and user-friendly interface.
 
 ---
-
+deployed link : https://shecarewebapp.netlify.app/login
 ## Problem Statement
 
 Women frequently need to manage multiple aspects of their health, including menstrual cycles, pregnancy care, medication schedules, hormonal health, and mental well-being. Existing solutions often focus on only one aspect of healthcare, resulting in scattered health records and reduced accessibility.
